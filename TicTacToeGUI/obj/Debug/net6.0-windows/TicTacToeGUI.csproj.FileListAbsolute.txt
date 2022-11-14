@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.Form1.resources
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\bin\Debug\net6.0-windows\TicTacToeGUI.exe
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\bin\Debug\net6.0-windows\TicTacToeGUI.deps.json
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\bin\Debug\net6.0-windows\TicTacToeGUI.runtimeconfig.json
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\bin\Debug\net6.0-windows\TicTacToeGUI.dll
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\bin\Debug\net6.0-windows\TicTacToeGUI.pdb
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.dll
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\refint\TicTacToeGUI.dll
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.pdb
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\TicTacToeGUI.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TicTacToeGUI\TicTacToeGUI\obj\Debug\net6.0-windows\ref\TicTacToeGUI.dll
