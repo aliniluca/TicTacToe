@@ -60,7 +60,7 @@ namespace TicTacToeGUI
             else if ((A3.Text == B3.Text) && (B3.Text == C3.Text) && (!A3.Enabled))
                 win = true;
             //diagonal
-            if ((A1.Text == B2.Text) && (B2.Text == C2.Text) && (!A1.Enabled))
+            if ((A1.Text == B2.Text) && (B2.Text == C3.Text) && (!A1.Enabled))
                 win = true;
             else if ((A3.Text == B2.Text) && (B2.Text == C1.Text) && (!C1.Enabled))
                 win = true;
